@@ -1,1 +1,1 @@
-module github.com/serrano90/convert-type
+module github.com/serrano90/converttype
